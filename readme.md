@@ -10,7 +10,6 @@
 Detailed description can be found here: [Quick Guide to Microservices with Quarkus on Openshift](https://piotrminkowski.com/2020/08/18/quick-guide-to-microservices-with-quarkus-on-openshift/) 
 
 **CIAO**
-
 # sezione 1
-## sezinoe 1.1
-_ciao sono italicco_
+## sezione 1.1
+_ciao non sono piu italico_
