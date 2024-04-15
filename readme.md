@@ -12,4 +12,4 @@ Detailed description can be found here: [Quick Guide to Microservices with Quark
 **CIAO**
 # sezione 1
 ## sezione 1.1
-_ciao sono italico_
+_ciao non sono piu italico_
